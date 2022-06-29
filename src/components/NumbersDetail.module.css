@@ -1,0 +1,19 @@
+.numbersDetail {
+  margin: 1rem 1.5rem;
+}
+
+.number {
+  color: hsl(229, 23%, 23%);
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text {
+  color: hsl(0, 0%, 59%);
+  font-size: 0.7rem;
+  font-weight: 400;
+  letter-spacing: 1px;
+  margin-top: 0.2rem;
+  text-align: center;
+}
